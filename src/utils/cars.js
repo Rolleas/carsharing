@@ -1,0 +1,86 @@
+export const cars = [
+    {
+        id: 1,
+        title: "Volkswagen Polo АКПП",
+        img: "https://inspirerent.by/wp-content/plugins/vikrentcar/admin/resources/rent_wv_polo.png",
+        price: "от 73.00 Br",
+    },
+    {
+        id: 1,
+        title: "Volkswagen Polo МКПП",
+        img: "https://inspirerent.by/wp-content/plugins/vikrentcar/admin/resources/1rent_wv_polo.png",
+        price: "от 67.00 Br",
+    },
+    {
+        id: 2,
+        title: "Ford Focus",
+        img: "https://inspirerent.by/wp-content/plugins/vikrentcar/admin/resources/rent-ford-focus-sw.jpg",
+        price: "от 72.00 Br",
+    },
+    {
+        id: 2,
+        title: "Volkswagen Polo МКПП",
+        img: "https://inspirerent.by/wp-content/plugins/vikrentcar/admin/resources/1rent_wv_polo.png",
+        price: "от 67.00 Br",
+    },
+    {
+        id: 2,
+        title: "Skoda Rapid АКПП",
+        img: "https://inspirerent.by/wp-content/plugins/vikrentcar/admin/resources/rent-skoda-rapid.jpg",
+        price: "от 86.00 Br",
+    },
+    {
+        id: 2,
+        title: "Skoda Rapid МКПП",
+        img: "https://inspirerent.by/wp-content/plugins/vikrentcar/admin/resources/1rent-skoda-rapid.jpg",
+        price: "от 67.00 Br",
+    },
+    {
+        id: 3,
+        title: "Audi A6",
+        img: "https://inspirerent.by/wp-content/plugins/vikrentcar/admin/resources/audi_a6.png",
+        price: "от 193.00 Br",
+    },
+    {
+        id: 5,
+        title: "Audi Q5",
+        img: "https://inspirerent.by/wp-content/plugins/vikrentcar/admin/resources/rent-audi-q5.jpg",
+        price: "от 200.00 Br",
+    },
+    {
+        id: 5,
+        title: "Chery Tiggo 7 Pro Max",
+        img: "https://inspirerent.by/wp-content/plugins/vikrentcar/admin/resources/tiggo7promax.jpg",
+        price: "от 165.00 Br",
+    },
+    {
+        id: 5,
+        title: "Skoda Kodiaq",
+        img: "https://inspirerent.by/wp-content/plugins/vikrentcar/admin/resources/rent-skoda-kodiaq.jpg",
+        price: "от 165.00 Br",
+    },
+    {
+        id: 4,
+        title: "Audi A4",
+        img: "https://inspirerent.by/wp-content/plugins/vikrentcar/admin/resources/rent-audi-a4.jpg",
+        price: "от 150.00 Br",
+    },
+    {
+        id: 6,
+        title: "Mercedes Vito",
+        img: "https://inspirerent.by/wp-content/plugins/vikrentcar/admin/resources/rent-mercedes-vito.jpg",
+        price: "от 184.00 Br",
+    },
+    {
+        id: 6,
+        title: "Volkswagen Caravelle MКПП",
+        img: "https://inspirerent.by/wp-content/plugins/vikrentcar/admin/resources/rent-vw-caravelle.jpg",
+        price: "от 184.00 Br",
+    },
+    {
+        id: 6,
+        title: "Volkswagen Caravelle АКПП\n",
+        img: "https://inspirerent.by/wp-content/plugins/vikrentcar/admin/resources/rent-vw-caravelle-akpp.jpeg",
+        price: "от 184.00 Br",
+    },
+]
