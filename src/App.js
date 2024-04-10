@@ -5,9 +5,9 @@ import {InfoPage} from "./components/pages/info";
 function App() {
   return (
   <Routes>
-    <Route path="/" element={<HomePage/>}>
+    <Route path="/carsharing" element={<HomePage/>}>
         <Route index element={<InfoPage/>}/>
-        <Route path="/about" element={<InfoPage/>}/>
+        <Route path="/carsharing/about" element={<InfoPage/>}/>
     </Route>
   </Routes>
   );
