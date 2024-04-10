@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/carsharing/static/css/main.b37f3f57.css",
+    "main.js": "/carsharing/static/js/main.5c9919fc.js",
+    "static/media/bg.png": "/carsharing/static/media/bg.302a8efe9cf912a8fdde.png",
+    "static/media/card3.png": "/carsharing/static/media/card3.531fc0171e58ca0fc1eb.png",
+    "static/media/card1.png": "/carsharing/static/media/card1.4e5eb8c35b4c9c4935cb.png",
+    "static/media/car.png": "/carsharing/static/media/car.dc2813fd2733a4e35441.png",
+    "static/media/card2.png": "/carsharing/static/media/card2.75289a752e2c6ce91303.png",
+    "static/media/payment.png": "/carsharing/static/media/payment.b5193a29ea0d40f36128.png",
+    "index.html": "/carsharing/index.html",
+    "main.b37f3f57.css.map": "/carsharing/static/css/main.b37f3f57.css.map",
+    "main.5c9919fc.js.map": "/carsharing/static/js/main.5c9919fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b37f3f57.css",
+    "static/js/main.5c9919fc.js"
+  ]
+}
